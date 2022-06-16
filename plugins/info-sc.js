@@ -11,10 +11,9 @@ let ye = `@${m.sender.split`@`[0]}`
 let esce = `
 Hai ${ye} Lagi Nyari Sc Ya? 
 
-Nih Link Sc Nya Dibawah :
-https://youtu.be/AXPzjQ5jxx8
-
-_*Jangan Lupa Di Subscribe*_`
+Nih chat aja minta Sc Nya :
+wa.me/6281515547358
+_*Jangan Lupa minta yang sopan*_`
 conn.sendBut(m.chat, esce, wm3, 'Thanks', 'thanks', m) 
 }
 handler.help = ['sc', 'sourcecode']
