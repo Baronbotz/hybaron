@@ -19,8 +19,8 @@ global.web = 'http://www.instagram.com/baron_store01' //ubah jadi website lu, bi
 global.price1 = 'Permanen = 15.000\n1 Minggu 7.000\n1 hari 3.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga ganti 
+global.fotonya1 = 'https://i.postimg.cc/kGgJLqWh/IMG-20220617-125606.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://i.postimg.cc/kGgJLqWh/IMG-20220617-125606.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '𝙱𝙰𝚁𝙾𝙽 𝙿𝚁𝙴𝙼 𝙱𝙾𝚃'
@@ -36,7 +36,7 @@ global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = '2022'
+global.packname = 'YUK SEWA BOT'
 global.author = '© 𝙱𝙰𝚁𝙾𝙽 𝙿𝚁𝙴𝙼 𝙱𝙾𝚃'
 
 //=============『 Apikey 』================== //
